@@ -73,5 +73,8 @@
   evt.currentTarget.className += " active";
 }
     </script>
+	
+<?php
+	?>
 </body>
 </html>
